@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-InventorySystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4Projects\ProjectC\Intermediate\Build\Win64\ProjectCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE4Projects\ProjectC\Plugins\InventorySystem\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem\InventorySystem.cpp.obj"
+"D:\UE4Projects\ProjectC\Plugins\InventorySystem\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem\Default.rc2.res"
+/OUT:"D:\UE4Projects\ProjectC\Plugins\InventorySystem\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem\UE4Editor-InventorySystem.lib"
