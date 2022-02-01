@@ -1,3 +1,3 @@
 # Inventory-System
 
-https://youtu.be/UWEgU33FCfw
+Preview: https://youtu.be/UWEgU33FCfw
